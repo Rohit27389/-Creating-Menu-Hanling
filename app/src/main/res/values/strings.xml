@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menu_Hanling_Events</string>
+
+    <string name="list_item1">New Item1</string>
+    <string name="list_item2">New Item2</string>
+    <string name="list_item3">New Item3</string>
+
+</resources>
